@@ -1,0 +1,214 @@
+
+.headerBar{
+    padding: 5px;
+    background-color: #2541B2;
+    display: block;
+    width: 518px;
+    margin-left: 650px;
+}
+
+.msg_logo{
+    width: 30px;
+    height: 30px;
+}
+
+.cleaner_logo{
+    width: 30px;
+    height: 30px;
+}
+
+.timer_logo{
+    margin-left: 290px;
+    width: 30px;
+    height: 30px;
+}
+
+.wifi_logo{
+    width: 30px;
+    height: 30px;
+}
+
+.network_logo{
+    width: 30px;
+    height: 30px;
+}
+
+.timeShow{
+    color: white;
+    font-size: 17px;
+    font-weight: 800;
+    margin-left: 465px;
+    margin-top: -25px;
+    position: absolute;
+}
+
+.screen{
+    background-color: teal;
+    width: 528px;
+    height: 300px;
+    margin-left: 650px;
+}
+
+.funBtn{
+    display: grid;
+    grid-template-columns: 131px 131px 131px 131px;
+    grid-template-rows: 90px 90px 90px 90px 90px;
+    border: 1px solid gray;
+    width: 526px;
+    height: 450px;
+    margin-left: 650px;
+
+}
+
+.cancleBtn{
+    border: 1px solid #AFD2CE;
+    background-color: #9EC9F7;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.rubimg{
+    width: 20px;
+    height: 20px;
+}
+
+.rubber{
+    border:  1px solid #AFD2CE;
+    background-color: #9EC9F7;
+    font-weight: 700;
+}
+
+.percentage{
+    border:  1px solid #AFD2CE;
+    background-color: #9EC9F7;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.divide{
+    border:  1px solid #AFD2CE;
+    background-color: #6D76F6;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.sevenBtn{
+    border:  1px solid #AFD2CE;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.eightBtn{
+    border:  1px solid #AFD2CE;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.nineBtn{
+    border:  1px solid #AFD2CE;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.multiply{
+    border:  1px solid #AFD2CE;
+    background-color: #6D76F6;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.fourBtn{
+    border:  1px solid #AFD2CE;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.fiveBtn{
+    border:  1px solid #AFD2CE;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.sixBtn{
+    border:  1px solid #AFD2CE;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.minus{
+    border:  1px solid #AFD2CE;
+    background-color: #6D76F6;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.oneBtn{
+    border:  1px solid #AFD2CE;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.twoBtn{
+    border:  1px solid #AFD2CE;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.threeBtn{
+    border:  1px solid #AFD2CE;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.addition{
+    border:  1px solid #AFD2CE;
+    background-color: #6D76F6;
+    height: 180px;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.dotBtn{
+    border:  1px solid #AFD2CE;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.zeroBtn{
+    border:  1px solid #AFD2CE;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.equalBtn{
+    border:  1px solid #AFD2CE;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.footRow{
+    padding: 10px;
+    display: block;
+    border: 1px solid grey;
+    width: 506px;
+    margin-left: 650px;
+    background-color: lightslategrey;
+}
+
+.backTri{
+    margin-left: 40px;
+    width: 30px;
+    height: 30px;
+}
+
+.menuCircle{
+    margin-left: 170px;
+    width: 30px;
+    height: 30px;
+}
+
+.tabSquare{
+    margin-left: 170px;
+    width: 30px;
+    height: 30px;
+}   
